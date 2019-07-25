@@ -6,7 +6,7 @@ In this project you are given the skeleton/structure/styling of a React app. The
 
 ---
 
-Read these finstructions carefully. Understand exactly what is expected before starting this project.
+Read these instructions carefully. Understand exactly what is expected before starting this project.
 
 ## Commits
 
